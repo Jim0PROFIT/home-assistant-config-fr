@@ -1,2 +1,2 @@
 # home-assistant-config-fr
- Config Home Assistant de Sigalou
+ Config Home Assistant de Jim PROFIT
